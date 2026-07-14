@@ -17,7 +17,9 @@ WiFi Band Switcher is a robust utility application built with Flutter that allow
 
 ## 🎥 Demo Video
 
-<video src="demo/Wifi%20Switching.mp4" width="100%" controls="controls">
+**[🎬 Click here to watch the Demo Video](demo/Wifi%20Switching.mp4)**
+
+<video src="https://github.com/rehanahmd218/wifi_frequency_switcher/raw/main/demo/Wifi%20Switching.mp4" width="100%" controls="controls">
   Your browser does not support the video tag.
 </video>
 
