@@ -15,13 +15,11 @@ WiFi Band Switcher is a robust utility application built with Flutter that allow
 - **Enterprise Support (Eduroam):** Includes native methods targeting enterprise WiFi connections.
 - **Sleek UI:** Modern, dark-themed user interface with smooth gradients and intuitive controls.
 
-## 📸 Screenshots
+## 🎥 Demo Video
 
-| 2.4 GHz Networks | 5 GHz Networks | Connection Dialog |
-|:---:|:---:|:---:|
-| <img src="assets/screenshots/2.4ghz.png" width="200"/> | <img src="assets/screenshots/5ghz.png" width="200"/> | <img src="assets/screenshots/connect.png" width="200"/> |
-
-*(Note: Replace the placeholder image paths with actual screenshots)*
+<video src="demo/Wifi%20Switching.mp4" width="100%" controls="controls">
+  Your browser does not support the video tag.
+</video>
 
 ## 🛠️ Technology Stack
 
