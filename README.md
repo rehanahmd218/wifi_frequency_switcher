@@ -21,6 +21,10 @@ WiFi Band Switcher is a robust utility application built with Flutter that allow
   Your browser does not support the video tag.
 </video>
 
+https://github.com/user-attachments/assets/8c621280-cbcb-44cd-922e-eb4a122f9ba6
+
+
+
 ## 🛠️ Technology Stack
 
 - **Framework:** [Flutter](https://flutter.dev/) (Dart)
