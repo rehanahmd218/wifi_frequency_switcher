@@ -27,10 +27,6 @@ WiFi Band Switcher is a robust utility application built with Flutter that allow
 https://github.com/user-attachments/assets/2c2d6e68-a33d-40f7-98d7-7c5ef828470f
 
 
-https://github.com/user-attachments/assets/1d599b36-bffb-486d-a8a1-9bd86d43393f
-
-
-
 
 
 ## 🛠️ Technology Stack
